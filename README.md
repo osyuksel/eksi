@@ -1,7 +1,10 @@
 # Web Mining - Eksi Sozluk
 
-Ongoing work on extracting and analyzing data from Eksi Sozluk (eksisozluk.com).
+Extracting and analyzing data from Eksi Sozluk (eksisozluk.com). Presented in PyData Paris '16.
 
 # TODO
-Add the notebooks on exploration and machine learning.
+- Prediction
+  - Additional features (time, author, length)
+  - Phrase detection
+  - Reconsider classes
 
